@@ -55,8 +55,6 @@ Os testes permitiram trabalhar com dois recursos fundamentais da ESP32:
     └── apresentacao-esp32.pdf
 ```
 
-> As pastas `build/` não devem ser adicionadas ao repositório, pois são geradas automaticamente pelo ESP-IDF durante a compilação.
-
 ## 🔌 Projeto 1 — GPIO Blink
 
 O projeto `gpio_blink` configura o **GPIO 4** como saída digital e alterna seu estado a cada segundo.
